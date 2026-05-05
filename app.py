@@ -124,7 +124,7 @@ def predict():
 if __name__ == '__main__':
     print('=' * 50)
     print('  Customer Churn Predictor — Web App')
-    print('  Joyline SaaS | ML Project')
+    print('   ML Project')
     print('=' * 50)
     print(f'  Model loaded : {type(model).__name__}')
     print(f'  Features     : {len(feature_cols)}')

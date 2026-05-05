@@ -68,7 +68,7 @@ def interactive_predictor():
     """Run an interactive CLI predictor."""
     print('\n' + '=' * 55)
     print('   🔮 CUSTOMER CHURN PREDICTION SYSTEM')
-    print('   Joyline SaaS — ML Prediction Tool')
+    print('  ML Prediction Tool')
     print('=' * 55)
 
     def get_val(prompt, default, cast=int):
